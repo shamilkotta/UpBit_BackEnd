@@ -72,7 +72,7 @@ Clone this repository to your local system.
 git clone https://github.com/shamilkotta/UpBit_BackEnd.git
 ```
 
-Then go to this project directory by running command `cd build_Together_Freelacing-site-for-Developers_BackEnd`
+Then go to this project directory by running command `cd UpBit_BackEnd`
 
 Install the dependencies.
 
@@ -121,4 +121,4 @@ Run the server
 -  [@ajeeshcp](https://github.com/ajeeshcp) - Contributor
 -  [@fathimafarhath](https://github.com/fathimafarhath) - Contributor
 
-More details about [contributors here](https://github.com/jsdcommunity/build_Together_Freelacing-site-for-Developers_BackEnd/contributors).
+More details about [contributors here](https://github.com/shamilkotta/UpBit_FrontEnd/contributors).
