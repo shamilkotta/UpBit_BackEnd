@@ -108,6 +108,10 @@ Run the server
    yarn format-code
 ```
 
+## **Contributing**
+
+Read contributing instructions and guidlines from [here](/CONTRIBUTING.md).
+
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 -  [NodeJs](https://nodejs.org/en/) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
