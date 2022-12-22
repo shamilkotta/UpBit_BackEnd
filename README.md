@@ -1,15 +1,15 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width="120px" src="https://raw.githubusercontent.com/jsdcommunity/build_Together_Freelacing-site-for-Developers_FrontEnd/master/public/logo.png" alt="Upbit logo"></a>
+ <img width="120px" src="https://raw.githubusercontent.com/shamilkotta/UpBit_FrontEnd/master/public/logo.png" alt="Upbit logo"></a>
 </p>
 
 <h3 align="center">UpBit Back End</h3>
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/jsdcommunity/build_Together_Freelacing-site-for-Developers_BackEnd)
-[![GitHub Issues](https://img.shields.io/github/issues/jsdcommunity/build_Together_Freelacing-site-for-Developers_BackEnd.svg)](https://github.com/jsdcommunity/build_Together_Freelacing-site-for-Developers_BackEnd/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/jsdcommunity/build_Together_Freelacing-site-for-Developers_BackEnd.svg)](https://github.com/jsdcommunity/build_Together_Freelacing-site-for-Developers_BackEnd/pulls)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/shamilkotta/UpBit_BackEnd)
+[![GitHub Issues](https://img.shields.io/github/issues/shamilkotta/UpBit_BackEnd.svg)](https://github.com/shamilkotta/UpBit_BackEnd/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/shamilkotta/UpBit_BackEnd.svg)](https://github.com/shamilkotta/UpBit_BackEnd/pulls)
 
 </div>
 
@@ -69,7 +69,7 @@ A step by step series of examples that tell you how to get a development env run
 Clone this repository to your local system.
 
 ```
-git clone https://github.com/jsdcommunity/build_Together_Freelacing-site-for-Developers_BackEnd.git
+git clone https://github.com/shamilkotta/UpBit_BackEnd.git
 ```
 
 Then go to this project directory by running command `cd build_Together_Freelacing-site-for-Developers_BackEnd`
